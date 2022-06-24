@@ -1,4 +1,4 @@
-## Oi, Sou Alan Torres
+## Oi, Meu nome é Alan Torres
 ### Atualmente cursando sistemas de informação.
 <div align="">
   <a href="https://github.com/AlannTorres">
