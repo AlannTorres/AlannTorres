@@ -1,23 +1,27 @@
 <div align="center">
-  <h1>Oi, Meu nome é Alan 🐢</h1>
+  <h1>Olá! Sou Alan Torres 👋</h1>
+  <p><b>Bacharel em Sistemas de Informação (UFRPE) | Suporte Técnico, Infraestrutura, Redes & Segurança</b></p>
   
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  <!-- Badges de Foco: Infra, Nuvem, Redes e Segurança -->
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
+  ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlannTorres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0D1117" alt="Alan Torres github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlannTorres&layout=compact&langs_count=7&theme=github_dark&border_color=0D1117" />
-</div>
+<br />
 
-### Sobre Mim
-Sou estudante de Sistemas de Informação na UFRPE e apaixonado por tecnologia, especialmente por **Desenvovimento**,**segurança da informação** e **redes de computadores**. Dedico grande parte do meu tempo explorando e aplicando conceitos de segurança cibernética, redes de alta performance e infraestruturas de nuvem seguras.
+### 🚀 Sobre Mim
+
+Bacharel em Sistemas de Informação pela **UFRPE** e Técnico em Informática pelo **IFPE**. Possuo experiência prática com monitoramento de infraestrutura de redes, triagem de incidentes, suporte técnico a usuários e troubleshoot inicial em equipamentos Cisco e FortiGate. 
+
+Também atuei na área acadêmica com pesquisa em **Segurança da Informação**, utilizando **Python** e técnicas de **Machine Learning** para análise de logs e detecção de ameaças.
+
+* 📜 **Certificações:** AWS Certified Cloud Practitioner e Fortinet Certified Associate (FCA/FCF).
+* 🎯 **Foco Atual:** Oportunidades nas áreas de Suporte Técnico, Operações (NOC/SOC), Infraestrutura de Redes, Cloud e Segurança da Informação.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
