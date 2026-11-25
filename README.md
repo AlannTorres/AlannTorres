@@ -1,27 +1,47 @@
+
 <div align="center">
-  <h1>Olá! Sou Alan Torres 👋</h1>
-  <p><b>Bacharel em Sistemas de Informação (UFRPE) | Suporte Técnico, Infraestrutura, Redes & Segurança</b></p>
-  
-  <!-- Badges de Foco: Infra, Nuvem, Redes e Segurança -->
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+# Olá! Sou Alan Torres 👋
+
+### Infrastructure | Networking | Cloud | Cybersecurity
+
+Bacharel em Sistemas de Informação pela UFRPE, com experiência em monitoramento de redes, infraestrutura e Segurança da Informação.
+
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
 </div>
 
-<br />
+---
 
-### 🚀 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Bacharel em Sistemas de Informação pela **UFRPE** e Técnico em Informática pelo **IFPE**. Possuo experiência prática com monitoramento de infraestrutura de redes, triagem de incidentes, suporte técnico a usuários e troubleshoot inicial em equipamentos Cisco e FortiGate. 
+Sou Bacharel em Sistemas de Informação pela **Universidade Federal Rural de Pernambuco (UFRPE)** e Técnico em Informática pelo **IF Sertão-PE**.
 
-Também atuei na área acadêmica com pesquisa em **Segurança da Informação**, utilizando **Python** e técnicas de **Machine Learning** para análise de logs e detecção de ameaças.
+Possuo experiência profissional com monitoramento de redes e infraestrutura, identificação e triagem de incidentes, acompanhamento de ativos e troubleshooting em ambientes envolvendo equipamentos Cisco, Fortinet e outras tecnologias de conectividade.
 
-* 📜 **Certificações:** AWS Certified Cloud Practitioner e Fortinet Certified Associate (FCA/FCF).
-* 🎯 **Foco Atual:** Oportunidades nas áreas de Suporte Técnico, Operações (NOC/SOC), Infraestrutura de Redes, Cloud e Segurança da Informação.
+Na área acadêmica, atuei como bolsista de pesquisa em **Segurança da Informação**, desenvolvendo soluções em Python para análise de logs e investigação de eventos de segurança, incluindo técnicas de Machine Learning.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+Também possuo conhecimentos em computação em nuvem, com estudos e experiências envolvendo a plataforma AWS.
+
+Atualmente, direciono meus estudos para aprofundar conhecimentos em infraestrutura, redes, operações de segurança e automação, explorando ambientes práticos e laboratórios próprios.
+
+## 🎯 Áreas de interesse
+
+- **Networking & Infrastructure:** Redes de computadores, roteamento, switching, firewalls, VLANs e troubleshooting.
+- **Cybersecurity & Blue Team:** Monitoramento de segurança, SIEM, análise de logs, detecção de ameaças e resposta a incidentes.
+- **Cloud Computing:** Arquitetura AWS, serviços de nuvem, redes virtuais, IAM e segurança em ambientes cloud.
+- **DevOps & Automation:** Linux, Docker, Git, CI/CD, infraestrutura como código e automação.
+- **DevSecOps:** Integração de segurança ao ciclo de desenvolvimento, análise de vulnerabilidades, segurança de dependências e pipelines.
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=100&section=footer"/>
+</div>
